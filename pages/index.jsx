@@ -18,10 +18,7 @@ function Home() {
               Hey, says Liba Shapiro
             </h1>
             <p className="description">
-              We hold these truths to be self evident, that all men are created
-              equal, that they are endowed by their creator with certain
-              unalienable rights that among these are life, liberty and the
-              pursuit of happiness.
+              Teacher, Psychologist, Mom, wanna be Programmer
             </p>
 
             <Link href="/contact" className="cta">
