@@ -15,15 +15,17 @@ function Home() {
         <div className="container">
           <div className="text-wrapper">
             <h1 data-cy="homePageTitle" className="title">
-              Halo, saya Lutfhi Ramadhan
+              Hey, says Liba Shapiro
             </h1>
             <p className="description">
-              Saya seorang pekerja lepas pengembang web, fotograper, desainer
-              antarmuka pengguna, dan penulis.
+              We hold these truths to be self evident, that all men are created
+              equal, that they are endowed by their creator with certain
+              unalienable rights that among these are life, liberty and the
+              pursuit of happiness.
             </p>
 
             <Link href="/contact" className="cta">
-              Kontak Saya
+              contact me
             </Link>
           </div>
 
