@@ -15,7 +15,7 @@ function Home() {
         <div className="container">
           <div className="text-wrapper">
             <h1 data-cy="homePageTitle" className="title">
-              Hey, says Liba Shapiro
+              Hello, says Liba Shapiro
             </h1>
             <p className="description">
               Teacher, Psychologist, Mom, wanna be Programmer
